@@ -15,7 +15,7 @@
   /* Card styling */
   .supplier-card {
     overflow: hidden; /* Prevents content from overflowing */
-    border-radius: 15px; /* Rounded corners */
+    border-radius: 30px; /* Rounded corners */
     background-color: var(--color-2); /* Light background */
     border: 2px solid var(--color-4); /* Border color */
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions */
